@@ -1,0 +1,26 @@
+14  ls
+   15  git clone https://github.com/Satyanaryana5555/deploying-war-file.git
+   16  ls
+   17  cd deploying-war-file/
+   18  ls
+   19  cd ..
+   20  ls
+   21  cd apache-tomcat-9.0.64/
+   22  ls
+   23  cd bin/
+   24  ls
+   25  pwd
+   26  sh startup.sh
+   27  curl ifconfig.co
+   28  ls
+   29  cd ~
+   30  ls
+   31  ls deploying-war-file/
+   32  cp deploying-war-file/sample.war apache-tomcat-9.0.64/webapps/
+   33  ls apache-tomcat-9.0.64/webapps/
+   34  cd apache-tomcat-9.0.64/webapps/
+   35  ls
+   36  cd sample/
+   37  ls
+   38  vi index.html
+   39  history
